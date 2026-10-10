@@ -7,7 +7,7 @@ This repository holds **only the built downloads**. It is not the source code.
 ## Install
 
 1. Download `ClaudeCad-vX.Y.Z.mcpb` from the [latest release](../../releases/latest).
-2. Double-click it. Claude Desktop shows an install dialog.
+2. In Claude Desktop open **Settings > Extensions**, then either drag the file into the Extensions panel or use **Advanced settings > Install Extension** and choose it. Confirm the install, and restart Claude Desktop if it asks.
 
 ## What is in a release
 
